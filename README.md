@@ -23,3 +23,10 @@ pip install -r requirements.txt
    ```bash
    pip install -r requirements.txt  # or install individually as above
 # ASL_handsign_Detecion_using_opencv_and_Mediapipe
+
+## 📷 Sample Output
+<img width="433" height="303" alt="image" src="https://github.com/user-attachments/assets/0611858e-4581-4105-8a3e-78f49d74fe62" />
+
+<img width="426" height="308" alt="image" src="https://github.com/user-attachments/assets/068256ab-84ef-45cf-9cc2-4077081293e9" />
+
+<img width="528" height="472" alt="image" src="https://github.com/user-attachments/assets/5a63351a-6b3d-49f2-b71b-43f2ec03e659" />
